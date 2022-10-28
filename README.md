@@ -1,0 +1,2 @@
+# scammers
+BasicNFT_Metadata
