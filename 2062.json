@@ -1,0 +1,76 @@
+{
+    "name": "Deep Thought DJ #2062",
+    "symbol": "DTDJ",
+    "description": "Deep Thought DJ is a multibase layer collection of 2501 original NFTs that were created with the purpose of raising awareness for mental health through music and art. Come Vibe With Us As We Enjoy Music For The SOL",
+    "seller_fee_basis_points": 9999,
+    "image": "https://github.com/blizzyenterprises/scammers/blob/main/Retrieved.png",
+    "external_url": "https://www.dtdjremixed.com",
+    "attributes": [
+    {
+    "trait_type": "Background",
+    "value": "Bronze"
+    },
+    {
+    "trait_type": "Base",
+    "value": "Male"
+    },
+    {
+    "trait_type": "Skin",
+    "value": "24K"
+    },
+    {
+    "trait_type": "Clothing",
+    "value": "Steampunk Jacket"
+    },
+    {
+    "trait_type": "Headphones",
+    "value": "Kitty"
+    },
+    {
+    "trait_type": "Headgear",
+    "value": "Potatoes"
+    },
+    {
+    "trait_type": "Mouth",
+    "value": "Oxygen"
+    },
+    {
+    "trait_type": "FacePlate",
+    "value": "none"
+    },
+    {
+    "trait_type": "BackPlate",
+    "value": "none"
+    },
+    {
+    "trait_type": "Hair",
+    "value": "Purple Mohawk"
+    },
+    {
+    "trait_type": "Equipment",
+    "value": "none"
+    },
+    {
+    "trait_type": "Eyes",
+    "value": "Sleepy Time"
+    },
+    {
+    "trait_type": "Eyewear",
+    "value": "Pit Vipers"
+    },
+    {
+    "trait_type": "Jaw",
+    "value": "none"
+    }
+    ],
+    "properties": {
+    "edition": 2062,
+    "files": [
+    {
+    "uri": "https://www.arweave.net/rQ5nSr22e3JojQWmr7LTUYYVj-4DcHF8zBse8H0Sy-g",
+    "type": "image/png"
+    }
+    ],
+    "category": "image"
+    }
+    }
